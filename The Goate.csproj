@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{25F1F432-C265-4057-AB1F-A0524ADDFC74}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>The_Goate</RootNamespace>
+    <AssemblyName>The Goate</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedPageDragAndDrop">
+      <HintPath>C:\Users\mr.x145\OneDrive\سطح المكتب\Tools\Krypton-master\Bin\AdvancedPageDragAndDrop.exe</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.1.5.3">
+      <HintPath>BUNIFU TOOLS\Bunifu.UI.WinForms.1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>BUNIFU TOOLS\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGradientPanel">
+      <HintPath>BUNIFU TOOLS\Bunifu.UI.WinForms.BunifuGradientPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPanel">
+      <HintPath>BUNIFU TOOLS\Bunifu.UI.WinForms.BunifuPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSlider">
+      <HintPath>BUNIFU TOOLS\Bunifu.UI.WinForms.BunifuSlider.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
+      <HintPath>BUNIFU TOOLS\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit">
+      <HintPath>C:\Users\mr.x145\OneDrive\سطح المكتب\Tools\Krypton-master\Bin\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About_us.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About_us.Designer.cs">
+      <DependentUpon>About_us.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File_Report.Designer.cs">
+      <DependentUpon>File_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="More_Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="More_Items.Designer.cs">
+      <DependentUpon>More_Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="My_Shop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My_Shop.Designer.cs">
+      <DependentUpon>My_Shop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Phones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Phones.Designer.cs">
+      <DependentUpon>Phones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports.Designer.cs">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_Report.Designer.cs">
+      <DependentUpon>Search_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Shops.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shops.Designer.cs">
+      <DependentUpon>Shops.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Phones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_Phones.Designer.cs">
+      <DependentUpon>User_Phones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Reports.Designer.cs">
+      <DependentUpon>View_Reports.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About_us.resx">
+      <DependentUpon>About_us.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File_Report.resx">
+      <DependentUpon>File_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="More_Items.resx">
+      <DependentUpon>More_Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My_Shop.resx">
+      <DependentUpon>My_Shop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Phones.resx">
+      <DependentUpon>Phones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reports.resx">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Report.resx">
+      <DependentUpon>Search_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shops.resx">
+      <DependentUpon>Shops.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Phones.resx">
+      <DependentUpon>User_Phones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Reports.resx">
+      <DependentUpon>View_Reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\store %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-interface-symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instagram.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\github.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

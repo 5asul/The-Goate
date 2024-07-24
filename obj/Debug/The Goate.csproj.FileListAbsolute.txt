@@ -1,0 +1,76 @@
+D:\The Goate\The Goate\The Goate\bin\Debug\The Goate.exe.config
+D:\The Goate\The Goate\The Goate\bin\Debug\The Goate.exe
+D:\The Goate\The Goate\The Goate\bin\Debug\The Goate.pdb
+D:\The Goate\The Goate\The Goate\bin\Debug\AdvancedPageDragAndDrop.exe
+D:\The Goate\The Goate\The Goate\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\The Goate\The Goate\The Goate\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\The Goate\The Goate\The Goate\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\The Goate\The Goate\The Goate\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\The Goate\The Goate\The Goate\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\The Goate\The Goate\The Goate\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\The Goate\The Goate\The Goate\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\The Goate\The Goate\The Goate\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\The Goate\The Goate\The Goate\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\The Goate\The Goate\The Goate\bin\Debug\Bunifu.Licensing.dll
+D:\The Goate\The Goate\The Goate\bin\Debug\AdvancedPageDragAndDrop.pdb
+D:\The Goate\The Goate\The Goate\bin\Debug\AdvancedPageDragAndDrop.exe.config
+D:\The Goate\The Goate\The Goate\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\The Goate\The Goate\The Goate\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\The Goate\The Goate\The Goate\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\The Goate\The Goate\The Goate\obj\Debug\The Goate.csproj.AssemblyReference.cache
+D:\The Goate\The Goate\The Goate\obj\Debug\The Goate.csproj.SuggestedBindingRedirects.cache
+D:\The Goate\The Goate\The Goate\obj\Debug\The_Goate.Properties.Resources.resources
+D:\The Goate\The Goate\The Goate\obj\Debug\The Goate.csproj.GenerateResource.cache
+D:\The Goate\The Goate\The Goate\obj\Debug\The Goate.exe.licenses
+D:\The Goate\The Goate\The Goate\obj\Debug\The Goate.csproj.CoreCompileInputs.cache
+D:\The Goate\The Goate\The Goate\obj\Debug\The Goate.csproj.CopyComplete
+D:\The Goate\The Goate\The Goate\obj\Debug\The Goate.exe
+D:\The Goate\The Goate\The Goate\obj\Debug\The Goate.pdb
+D:\The Goate\The Goate\The Goate\obj\Debug\The_Goate.Home.resources
+D:\The Goate\The Goate\The Goate\obj\Debug\The_Goate.My_Shop.resources
+D:\The Goate\The Goate\The Goate\obj\Debug\The_Goate.Shops.resources
+D:\The Goate\The Goate\The Goate\obj\Debug\The_Goate.Reports.resources
+D:\The Goate\The Goate\The Goate\obj\Debug\The_Goate.About_us.resources
+D:\The Goate\The Goate\The Goate\obj\Debug\The_Goate.More_Items.resources
+D:\The Goate\The Goate\The Goate\obj\Debug\The_Goate.Phones.resources
+D:\The Goate\The Goate\The Goate\obj\Debug\The_Goate.User_Phones.resources
+D:\The Goate\The Goate\The Goate\obj\Debug\The_Goate.File_Report.resources
+D:\The Goate\The Goate\The Goate\obj\Debug\The_Goate.Search_Report.resources
+D:\The Goate\The Goate\The Goate\obj\Debug\The_Goate.View_Reports.resources
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\The Goate.exe.config
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\The Goate.exe
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\The Goate.pdb
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\Bunifu.Licensing.dll
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\AdvancedPageDragAndDrop.pdb
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\AdvancedPageDragAndDrop.exe.config
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The Goate.csproj.AssemblyReference.cache
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The Goate.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The_Goate.About_us.resources
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The_Goate.File_Report.resources
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The_Goate.Home.resources
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The_Goate.More_Items.resources
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The_Goate.My_Shop.resources
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The_Goate.Phones.resources
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The_Goate.Properties.Resources.resources
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The_Goate.Reports.resources
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The_Goate.Search_Report.resources
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The_Goate.Shops.resources
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The_Goate.User_Phones.resources
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The_Goate.View_Reports.resources
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The Goate.csproj.GenerateResource.cache
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The Goate.exe.licenses
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The Goate.csproj.CoreCompileInputs.cache
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The Goate.csproj.CopyComplete
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The Goate.exe
+C:\Users\ahmed abbad\source\repos\The Goate\The Goate\The Goate\obj\Debug\The Goate.pdb
